@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "F50F7F38AFD824D9FB0B8630F207FE76",
+  "keywordClasses": [
+    {
+      "name": "aksesApp.LibFaizal",
+      "keywordMethods": [
+        {
+          "name": "pressEnterKey",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

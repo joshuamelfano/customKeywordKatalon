@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "1D512CAFD1ECABD091A92A064366538E",
+  "keywordClasses": [
+    {
+      "name": "textFormatting.charCount",
+      "keywordMethods": [
+        {
+          "name": "CharCount",
+          "parameters": [
+            {
+              "name": "TargetCount",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "888A23684CFCA22621CF60606A78FF2C",
+  "keywordClasses": [
+    {
+      "name": "database_query.delete_mobil",
+      "keywordMethods": [
+        {
+          "name": "Delete_Data",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "6EDA8D218CACE5632D3F58BA349653C8",
+  "keywordClasses": [
+    {
+      "name": "function.CountTotalItem",
+      "keywordMethods": [
+        {
+          "name": "getTotalPromo",
+          "parameters": [
+            {
+              "name": "to",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "com.kms.katalon.core.testobject.TestObject",
+                "unresolvedClassName": "TestObject",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

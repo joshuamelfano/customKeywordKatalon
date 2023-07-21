@@ -1,0 +1,43 @@
+{
+  "keywordFileContentHash": "6DC20F3738117072181577C27766BB43",
+  "keywordClasses": [
+    {
+      "name": "dateChanger.dateChangers",
+      "keywordMethods": [
+        {
+          "name": "changeDate",
+          "parameters": [
+            {
+              "name": "dateTarget",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "nextDay",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "int",
+                "unresolvedClassName": "int",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

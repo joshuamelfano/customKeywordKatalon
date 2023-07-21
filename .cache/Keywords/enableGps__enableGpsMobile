@@ -1,0 +1,21 @@
+{
+  "keywordFileContentHash": "A2E5F0DFAB0283DCA7463A4513D1E12E",
+  "keywordClasses": [
+    {
+      "name": "enableGps.enableGpsMobile",
+      "keywordMethods": [
+        {
+          "name": "enableGPSMobileWebChrome",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "enableGPSMobileWebChromeEmu",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

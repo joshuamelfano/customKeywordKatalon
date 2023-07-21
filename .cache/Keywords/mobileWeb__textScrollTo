@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "5EDE4672CCA4A6612E319B7043E1C5F4",
+  "keywordClasses": [
+    {
+      "name": "mobileWeb.textScrollTo",
+      "keywordMethods": [
+        {
+          "name": "ScrollToText",
+          "parameters": [
+            {
+              "name": "TextToScrollTo",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
